@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding: 0;
+  
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  
+}
+.display_flex{
+  display: flex;
+}
+.padding_zero{
+  padding: 0px;
+}
+.margin_{
+  margin: 5px 0px;
+}
+.placeorder_inputprop{
+  height: 30px;
+  font-size: 16px;
+  margin: 10px 0px 0px 0px;
+  font-weight: 500;
+}

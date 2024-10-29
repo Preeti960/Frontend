@@ -1,0 +1,13 @@
+.multi-fields{
+    display: flex;
+    gap: 5px;
+}
+.place-order{
+    padding: 0px;
+    width: 100%;
+    margin: 0px;
+
+}
+.place-order-right{
+    margin: 0px;
+}

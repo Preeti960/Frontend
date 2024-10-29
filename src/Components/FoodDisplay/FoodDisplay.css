@@ -1,0 +1,26 @@
+.food-display{
+    width: 98%;
+    margin-top: 80px;
+    padding: 0px;
+}
+.food-display-list{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-evenly; */
+    padding: 7px;
+    gap: 14px;
+    flex-wrap: wrap;
+    
+
+}
+.food-display{
+    width: 100%;
+}
+.food-display-list{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.food-display h2{
+    margin: 10px 50px;
+}
